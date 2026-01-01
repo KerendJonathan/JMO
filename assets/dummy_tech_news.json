@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "OpenAI's custom GPTs are already being spammed",
+      "description": "The GPT Store, OpenAI's app store-like marketplace for custom AI-powered chatbots, is already filling up with spam.",
+      "url": "https://techcrunch.com/2024/01/12/openais-custom-gpts-are-already-being-spammed/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/found-text.jpg?w=1024",
+      "publishedAt": "2024-01-12T23:44:52Z",
+      "content": "The GPT Store, OpenAI’s app store-like marketplace for custom AI-powered chatbots, is already filling up with spam.\r\nLess than a week after its launch, the store is being flooded with bizarre, poten… [+2262 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Umar Shakir",
+      "title": "The new Raspberry Pi 5 can now fully replace your desktop PC",
+      "description": "The new Raspberry Pi 5 comes with a more powerful processor, better graphics, and faster I/O, making it a viable desktop replacement for many users.",
+      "url": "https://www.theverge.com/2023/9/28/23893605/raspberry-pi-5-price-specs-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/raspberry-pi-5.jpg",
+      "publishedAt": "2023-09-28T13:00:00Z",
+      "content": "The Raspberry Pi Foundation has just announced its latest single-board computer, the Raspberry Pi 5. It’s a significant upgrade over its predecessor, with a faster processor, improved graphics perfor… [+3500 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Boone Ashworth",
+      "title": "Google's New AI Can Generate Music in Any Style",
+      "description": "Google's MusicLM can generate high-fidelity music from text prompts, and it can even be conditioned on a melody.",
+      "url": "https://www.wired.com/story/google-new-ai-can-generate-music-any-style/",
+      "urlToImage": "https://media.wired.com/photos/63d2f3e8f1f3e8b8d3d3b7d1/191:100/w_1280,c_limit/Google-MusicLM-AI-Music-Business.jpg",
+      "publishedAt": "2023-01-27T17:00:00Z",
+      "content": "Google researchers have developed an AI that can generate minutes-long musical pieces from text prompts. Called MusicLM, the model can also take an existing melody and generate accompanying music in a… [+2800 chars]"
+    }
+  ]
+}

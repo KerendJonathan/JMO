@@ -1,0 +1,29 @@
+
+{
+  "articles": [
+    {
+      "source": { "name": "CNN Indonesia" },
+      "title": "Jokowi Teken Aturan Baru soal Gaji ke-13, Siapa Saja Penerimanya?",
+      "description": "Presiden Jokowi meneken PP Nomor 14 Tahun 2024 tentang Pemberian Tunjangan Hari Raya dan Gaji ke-13 kepada Aparatur Negara, Pensiunan, Penerima Pensiun, dan Penerima Tunjangan Tahun 2024. Aturan ini juga memuat siapa saja yang berhak menerima gaji ke-13 tersebut. Lalu siapa saja penerima gaji ke-13 tersebut?",
+      "url": "https://www.cnnindonesia.com/ekonomi/20240315143329-532-1074812/jokowi-teken-aturan-baru-soal-gaji-ke-13-siapa-saja-penerimanya",
+      "urlToImage": "https://akcdn.detik.net.id/visual/2023/11/06/presiden-joko-widodo-jokowi-saat-memberikan-keterangan-pers-usai-meninjau-kawasan-ibu-kota-nusantara-ikn-di-kabupaten-penajam-paser-utara-kalimantan-timur- Rabu-1112023_169.jpeg?w=715&q=90",
+      "publishedAt": "2024-03-15T08:00:00Z"
+    },
+    {
+      "source": { "name": "CNBC Indonesia" },
+      "title": "Sah! Gaji ke-13 PNS Cair Juni 2024, Ini Komponen & Besarannya",
+      "description": "Pemerintah memastikan pencairan gaji ke-13 untuk para Pegawai Negeri Sipil (PNS) akan dilakukan pada Juni 2024. Hal ini diatur dalam Peraturan Pemerintah (PP) Nomor 14 Tahun 2024. Menteri Keuangan Sri Mulyani Indrawati mengatakan, gaji ke-13 akan dibayarkan mulai Juni 2024. Jika belum selesai pada bulan tersebut, pembayaran akan dilanjutkan pada bulan-bulan berikutnya.",
+      "url": "https://www.cnbcindonesia.com/news/20240315140808-4-522108/sah-gaji-ke-13-pns-cair-juni-2024-ini-komponen-besarannya",
+      "urlToImage": "https://awsimages.detik.net.id/cnbc/2023/04/03/para-pns-di-kantor-wali-kota-jakarta-selatan_169.jpeg?w=700&q=90",
+      "publishedAt": "2024-03-15T07:30:00Z"
+    },
+    {
+      "source": { "name": "Kompas.com" },
+      "title": "Simak, Ini Rincian Penerima dan Besaran Gaji Ke-13 yang Cair Juni 2024",
+      "description": "Pemerintah telah menerbitkan Peraturan Pemerintah (PP) Nomor 14 Tahun 2024 yang menjadi landasan hukum pembayaran tunjangan hari raya (THR) dan gaji ke-13 tahun ini. Dalam beleid yang diteken oleh Presiden Joko Widodo (Jokowi) itu ditetapkan, pencairan gaji ke-13 akan dilakukan pada Juni 2024.",
+      "url": "https://money.kompas.com/read/2024/03/15/133000826/simak-ini-rincian-penerima-dan-besaran-gaji-ke-13-yang-cair-juni-2024",
+      "urlToImage": "https://asset.kompas.com/crops/6g1_A3jB0XzY2Z2f2E2e1D6f3oA=/0x0:0x0/750x500/data/photo/2023/03/29/6423a608d58e3.jpg",
+      "publishedAt": "2024-03-15T06:45:00Z"
+    }
+  ]
+}

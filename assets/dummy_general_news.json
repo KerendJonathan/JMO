@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "cnbc-indonesia", "name": "CNBC Indonesia" },
+      "author": "Faisal Maliki Baskoro",
+      "title": "Terungkap! Ini 'Harta Karun' Super Langka RI yang Diburu Dunia",
+      "description": "Pemerintah dalam hal ini Kementerian Energi dan Sumber Daya Mineral (ESDM) tengah menyiapkan aturan untuk tata kelola dan tata niaga mineral kritis.",
+      "url": "https://www.cnbcindonesia.com/news/20231116123447-4-490021/terungkap-ini-harta-karun-super-langka-ri-yang-diburu-dunia",
+      "urlToImage": "https://awsimages.detik.net.id/visual/2023/07/20/presiden-joko-widodo-jokowi-saat-meninjau-smelter-pt-freeport-indonesia-di-kawasan-ekonomi-khusus-kek-gresik-jawa-timur_169.jpeg?w=715&q=90",
+      "publishedAt": "2023-11-16T06:00:23Z",
+      "content": "Jakarta, CNBC Indonesia - Pemerintah... [+2628 chars]"
+    },
+    {
+      "source": { "id": "detikinet", "name": "detikInet" },
+      "author": "Yusmei Sawitri",
+      "title": "Netizen RI Heboh Lihat Oppo Find N3 Dijatuhkan Berkali-kali, Masih Kuat!",
+      "description": "Ketahanan Oppo Find N3 jadi perbincangan netizen Indonesia setelah melihat video yang memperlihatkan ponsel ini dijatuhkan berkali-kali namun tetap berfungsi.",
+      "url": "https://inet.detik.com/consumer/d-7040410/netizen-ri-heboh-lihat-oppo-find-n3-dijatuhkan-berkali-kali-masih-kuat",
+      "urlToImage": "https://awsimages.detik.net.id/api/wm/2023/11/16/oppo-find-n3_169.jpeg?wid=54&w=650&v=1&t=jpeg",
+      "publishedAt": "2023-11-16T05:45:15Z",
+      "content": "Jakarta - Ketahanan Oppo Find N3 jadi perbincangan... [+2273 chars]"
+    },
+    {
+      "source": { "id": "cnn-indonesia", "name": "CNN Indonesia" },
+      "author": "CNN Indonesia",
+      "title": "Jokowi soal Isu Temui Megawati: Waktunya Akan Diatur",
+      "description": "Presiden Joko Widodo (Jokowi) akhirnya buka suara mengenai isu dirinya akan bertemu Ketua Umum PDIP Megawati Soekarnoputri.",
+      "url": "https://www.cnnindonesia.com/nasional/20231116124901-32-1025219/jokowi-soal-isu-temui-megawati-waktunya-akan-diatur",
+      "urlToImage": "https://akcdn.detik.net.id/visual/2023/11/13/rakernas-apeksi-di-makassar_169.jpeg?w=715&q=90",
+      "publishedAt": "2023-11-16T05:00:00Z",
+      "content": "Jakarta, CNN Indonesia -- Presiden Joko Widodo (Jokowi) ... [+2012 chars]"
+    }
+  ]
+}
